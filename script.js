@@ -1,5 +1,5 @@
 const images=[{img:"images/img1.jpg", text:"Zakhyntos"}, {img:"images/img2.jpg", text:"Pier"}, {img:"images/img3.jpg", text:"Maledives"}];
-    //wszystkie obrazy na licencji creative commons
+    //all images are on google creative commons license
 const img = document.querySelector("img.slider");
 const txt = document.querySelector("h1.slider");
 const dots = [...document.querySelectorAll('.dots span')];
