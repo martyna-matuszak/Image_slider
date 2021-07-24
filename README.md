@@ -1,0 +1,4 @@
+# Image_slider
+JavaScript | HTML | CSS
+
+This project shows the view that could be the main page of some travel agency, that shows pictures from few chosen localisations and changes them in set time interval. Pictures can also be changed manually using the arrows.
